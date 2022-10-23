@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Volthai7us/Portfolio/static/css/main.d1b44495.css",
+    "main.js": "/Volthai7us/Portfolio/static/js/main.468b7402.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Volthai7us/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/socialgif.gif": "/Volthai7us/Portfolio/static/media/socialgif.7b66511e08f6c03a535e.gif",
+    "static/media/maze.gif": "/Volthai7us/Portfolio/static/media/maze.111dacfd485c54d20778.gif",
+    "static/media/image-removebg-preview.png": "/Volthai7us/Portfolio/static/media/image-removebg-preview.d4bf97f7129eefbc5d30.png",
+    "static/media/terrain.jpg": "/Volthai7us/Portfolio/static/media/terrain.0c5c5bf93f59ea1bad47.jpg",
+    "static/media/hospital.png": "/Volthai7us/Portfolio/static/media/hospital.780aaf047c1eabbcf093.png",
+    "static/media/Resume.pdf": "/Volthai7us/Portfolio/static/media/Resume.bdfb984150b16ff3deaf.pdf",
+    "index.html": "/Volthai7us/Portfolio/index.html",
+    "main.d1b44495.css.map": "/Volthai7us/Portfolio/static/css/main.d1b44495.css.map",
+    "main.468b7402.js.map": "/Volthai7us/Portfolio/static/js/main.468b7402.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Volthai7us/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b44495.css",
+    "static/js/main.468b7402.js"
+  ]
+}
