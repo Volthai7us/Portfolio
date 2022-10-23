@@ -579,10 +579,6 @@ video {
   float: right;
 }
 
-.mb-16 {
-  margin-bottom: 4rem;
-}
-
 .block {
   display: block;
 }
@@ -973,16 +969,6 @@ body {
   background-color: rgb(202 138 4 / var(--tw-bg-opacity));
 }
 
-@media (min-width: 640px) {
-  .sm\:items-center {
-    align-items: center;
-  }
-
-  .sm\:justify-between {
-    justify-content: space-between;
-  }
-}
-
 @media (min-width: 768px) {
   .md\:col-start-2 {
     grid-column-start: 2;
@@ -1012,10 +998,6 @@ body {
     place-items: baseline;
   }
 
-  .md\:items-center {
-    align-items: center;
-  }
-
   .md\:gap-16 {
     gap: 4rem;
   }
@@ -1032,9 +1014,5 @@ body {
 
   .md\:pt-4 {
     padding-top: 1rem;
-  }
-
-  .md\:pt-8 {
-    padding-top: 2rem;
   }
 }
