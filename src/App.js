@@ -7,7 +7,7 @@ import Main from './pages/Main'
 
 function App() {
     return (
-        <div>
+        <div class="bg-slate-100 dark:bg-slate-700">
             <Navbar />
             <Main />
             {/* <Router>

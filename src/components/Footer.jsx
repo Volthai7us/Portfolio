@@ -2,7 +2,7 @@ import '../output.css'
 
 const Footer = () => {
     return (
-        <footer class="p-10 bg-gradient-to-b from-[#f4ecea] to-white">
+        <footer class="p-10 bg-gradient-to-b from-slate-100 to-yellow-500 dark:from-slate-700 dark:to-slate-500">
             <div class="flex flex-row justify-center space-x-4 ">
                 <a
                     href="https://www.instagram.com/emir.s.7/"

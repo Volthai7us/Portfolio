@@ -8,7 +8,7 @@ import socialdistance from '../images/socialgif.gif'
 const ProjectsIntro = () => {
     return (
         <div class="flex flex-col items-center space-y-16">
-            <p class="text-3xl font-bold underline decoration-4 underline-offset-[0.5rem] decoration-yellow-500">
+            <p class="text-3xl font-bold underline decoration-4 underline-offset-[0.5rem] decoration-yellow-500 dark:text-slate-100">
                 Projects
             </p>
             <div class="grid grid-cols-1 lg:grid-cols-2 lg:gap-16 place-items-center gap-y-8 px-16 py-4">
