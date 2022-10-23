@@ -2,8 +2,8 @@ import '../output.css'
 
 const Project = ({ name, desc, img, url }) => {
     return (
-        <div class="grid grid-cols-1 md:grid-cols-2 bg-slate-200 shadow-2xl w-[22rem] md:w-[40rem] rounded-2xl h-[30rem] md:h-[20rem] place-items-center md:place-items-baseline">
-            <div class="px-4 md:px-8 md:pt-4 flex flex-col space-y-8 justify-between items-center">
+        <div class="grid grid-cols-1 lg:grid-cols-2 bg-slate-200 shadow-2xl lg:h-[30rem] rounded-2xl place-items-center lg:place-items-baseline">
+            <div class="px-4 lg:px-8 lg:pt-32 flex flex-col space-y-8 justify-between items-center">
                 <h1 class="text-2xl text-center font-bold"> {name} </h1>
                 <h1 class="text-sm text-center"> {desc} </h1>
 
@@ -20,7 +20,7 @@ const Project = ({ name, desc, img, url }) => {
             </div>
             <div class="">
                 <img
-                    class="object-cover w-[12rem] h-[12rem] md:h-[20rem] md:w-[30rem] md:rounded-r-2xl "
+                    class="p-8 lg:p-0 object-cover lg:h-[30rem] lg:rounded-r-2xl lg:"
                     src={img}
                     alt="Project"
                 />

@@ -14,9 +14,9 @@ const Intro = () => {
                 <p class="py-6 ">
                     I am junior Computer Science Student at TOBB ETU. I enjoy
                     working with a problem and see the progress of how it's
-                    become a product. To achieve this satisfaction, I am writing
-                    projects with Java, C#, React. Common point of them is
-                    graphical user interface.
+                    become a product. To achieve this , I am writing projects
+                    with Java, C#, React. You can check my some projects below
+                    or you can directly go to my github pages.
                 </p>
                 <div class="space-x-4">
                     <a
@@ -25,7 +25,7 @@ const Intro = () => {
                         rel="noreferrer"
                         class="border-2 border-yellow-500 bg-yellow-500 p-2 rounded-xl font-semibold"
                     >
-                        Projects
+                        Github
                     </a>
                     <a
                         href="https://www.linkedin.com/in/emir-soyt%C3%BCrk-6a8a451b3/"
