@@ -48,7 +48,7 @@ const ProjectsIntro = () => {
                         'A hospital system provided for doctors and patients. System provides queries ' +
                         'between doctors and patients and allow create appointments. '
                     }
-                    url=""
+                    url="https://github.com/Volthai7us/Hospital-System"
                 />
             </div>
         </div>
